@@ -1,5 +1,4 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -7,15 +6,30 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    <SEO title="Elaine Aquino's Links" />
+    <ol>
+        <li>
+            <a className="btn" href="https://calendly.com/elaineaquino/mini-coaching">Free 15-min coaching sessions + content audit</a>
+        </li>
+        <li>
+            <a className="btn" href="https://gumroad.com/elaineaquino">Digital Content Creation ebook</a>
+        </li>
+        <li>
+            <a className="btn" href="https://elaineaquino.com/subscribe">Subscribe to Weekly Mindset Mailing List</a>
+        </li>
+        <li>
+            <a className="btn" href="https://elaineaquino.com/blog">Read the blog</a>
+        </li>
+        <li>
+            <a className="btn" href="https://youtube.com/elaineaqs89">Watch the vlog</a>
+        </li>
+        <li>
+            <a className="btn" href="https://anchor.fm/elaineaquino">Listen to the podcast</a>
+        </li>
+        <li>
+            <a className="btn" href="https://buymeacoffee.com/elaineaquino">Buy me coffee ☕️</a>
+        </li>
+    </ol>
   </Layout>
 )
 
