@@ -9,7 +9,7 @@ const IndexPage = () => (
     <SEO title="Elaine Aquino's Links" />
     <ol>
         <li>
-            <a className="btn" href="https://calendly.com/elaineaquino/mini-coaching">Free 15-min coaching sessions + content audit</a>
+            <a className="btn" href="https://calendly.com/elaineaquino/minicoaching">Free 15-min coaching sessions + content audit</a>
         </li>
         <li>
             <a className="btn" href="https://gumroad.com/elaineaquino">Digital Content Creation ebook</a>
