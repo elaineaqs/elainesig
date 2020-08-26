@@ -5,6 +5,7 @@ body {
     margin: 0;
     text-align: center;
     font-size: 16px;
+    background-color: #fef1f5;;
 }
 
 header {
@@ -23,26 +24,31 @@ ol
         display: block;
         padding: 1.2rem 1.8rem;
         margin: 1.2rem 0;
-        background-color: #fef1f5;
-        border: 2px solid #fef1f5;
+        background-color: #fff;
+        border: 2px solid #fff;
         border-radius: 100px;
         text-decoration: none;
+        color: #640e23;
     }
 
 ol
   li
     a:hover {
-        color: #5271ff;
-        background-color: #fff;
+        color: #fef1f5;
+        background-color: #640e23;
     }
 
 a {
     text-decoration: none;
-    color: #5271ff;
+    color: #640e23;
 }
 
 footer {
     font-size: 14px;
     color: #888;
     padding: 1.3rem;
+}
+
+img {
+    border-radius: 50%;
 }
