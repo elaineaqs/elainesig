@@ -17,6 +17,7 @@ const IndexPage = () => (
         <li>
             <a className="btn" href="https://elaineaquino.com/subscribe">Subscribe to the Spiritual Multipassionate Newsletter Community</a>
         </li>
+        <li>
             <a className="btn" href="https://gumroad.com/l/elaineaquino-ebook">Content Creation for Intentional Creators eBook (FREE when you join our newsletter</a>
         </li>
         <li>
@@ -28,7 +29,6 @@ const IndexPage = () => (
         <li>
             <a className="btn" href="https://anchor.fm/elaineaquino">Listen to the Beautiful Things and Memories podcast</a>
         </li>
-        <li>
         <li>
             <a className="btn" href="https://elaineaquino.com/">Elaine Aquino Official Site</a>
         </li>
