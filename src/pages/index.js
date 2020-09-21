@@ -18,7 +18,7 @@ const IndexPage = () => (
             <a className="btn" href="https://elaineaquino.com/subscribe">Subscribe to the Spiritual Multipassionate Newsletter Community</a>
         </li>
         <li>
-            <a className="btn" href="https://gumroad.com/l/elaineaquino-ebook">Content Creation for Intentional Creators eBook (FREE when you join our newsletter</a>
+            <a className="btn" href="https://gumroad.com/l/elaineaquino-ebook">Content Creation for Intentional Creators eBook (FREE when you join our newsletter)</a>
         </li>
         <li>
             <a className="btn" href="https://elaineaquino.com/blog">Read the EA blog</a>
