@@ -9,16 +9,10 @@ const IndexPage = () => (
     <SEO title="Elaine Aquino's Links" />
     <ol>
         <li>
-            <a className="btn" href="https://calendly.com/elaineaquino/minicoaching">FREE 15-min coaching sessions + content audit</a>
+            <a className="btn" href="https://calendly.com/elaineaquino/minicoaching">Get a FREE content audit and content strategy call with me!</a>
         </li>
         <li>
-            <a className="btn" href="https://elaineaquino.com/coaching">1:1 Aligned Content Coaching</a>
-        </li>
-        <li>
-            <a className="btn" href="https://elaineaquino.com/subscribe">Subscribe to the Spiritual Multipassionate Newsletter Community</a>
-        </li>
-        <li>
-            <a className="btn" href="https://gumroad.com/l/elaineaquino-ebook">Content Creation for Intentional Creators eBook (FREE when you join our newsletter)</a>
+            <a className="btn" href="https://gumroad.com/l/elaineaquino-ebook">Grab a FREE copy of Content Creation Foundations to kickstart your online content eco-system </a>
         </li>
         <li>
             <a className="btn" href="https://elaineaquino.com/blog">Read the EA blog</a>
